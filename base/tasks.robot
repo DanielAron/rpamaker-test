@@ -15,6 +15,7 @@ Example Keyword
 *** Tasks ***
 Example Task
     Example Keyword
+    Example Python Keyword
     Example Robot Keyword
 
 
